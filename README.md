@@ -2,11 +2,11 @@
 
 **COMPANY**: CodSoft IT Services and IT Consulting
 
-**NAME**: SINDHUDEVI. R
+**NAME**: SINDHUDEVI R
 
-**INTERN ID**: CS24NY361693
+**INTERN ID**: CS25RY83045
 
-**DOMAIN NAME**: PYTHON PROGRAMMING
+**DOMAIN NAME**: Artifical Intelligence
 
 **BATCH DURATION**: 5th July 2025 to 5th August 2025.
 
